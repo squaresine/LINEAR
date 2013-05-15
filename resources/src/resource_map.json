@@ -1,0 +1,191 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_SLIDER_12H",
+            "type": "png",
+            "file": "images/slider_test_12H.png"
+        },
+        {
+            "defName": "IMAGE_DAY_31",
+            "type": "png",
+            "file": "images/linear_day31.png"
+        },
+        {
+            "defName": "IMAGE_DAY_30",
+            "type": "png",
+            "file": "images/linear_day30.png"
+        },
+        {
+            "defName": "IMAGE_DAY_29",
+            "type": "png",
+            "file": "images/linear_day29.png"
+        },
+        {
+            "defName": "IMAGE_DAY_28",
+            "type": "png",
+            "file": "images/linear_day28.png"
+        },
+        {
+            "defName": "IMAGE_DAY_27",
+            "type": "png",
+            "file": "images/linear_day27.png"
+        },
+        {
+            "defName": "IMAGE_DAY_26",
+            "type": "png",
+            "file": "images/linear_day26.png"
+        },
+        {
+            "defName": "IMAGE_DAY_25",
+            "type": "png",
+            "file": "images/linear_day25.png"
+        },
+        {
+            "defName": "IMAGE_DAY_24",
+            "type": "png",
+            "file": "images/linear_day24.png"
+        },
+        {
+            "defName": "IMAGE_DAY_23",
+            "type": "png",
+            "file": "images/linear_day23.png"
+        },
+        {
+            "defName": "IMAGE_DAY_22",
+            "type": "png",
+            "file": "images/linear_day22.png"
+        },
+        {
+            "defName": "IMAGE_DAY_21",
+            "type": "png",
+            "file": "images/linear_day21.png"
+        },
+        {
+            "defName": "IMAGE_DAY_20",
+            "type": "png",
+            "file": "images/linear_day20.png"
+        },
+        {
+            "defName": "IMAGE_DAY_19",
+            "type": "png",
+            "file": "images/linear_day19.png"
+        },
+        {
+            "defName": "IMAGE_DAY_18",
+            "type": "png",
+            "file": "images/linear_day18.png"
+        },
+        {
+            "defName": "IMAGE_DAY_17",
+            "type": "png",
+            "file": "images/linear_day17.png"
+        },
+        {
+            "defName": "IMAGE_DAY_16",
+            "type": "png",
+            "file": "images/linear_day16.png"
+        },
+        {
+            "defName": "IMAGE_DAY_15",
+            "type": "png",
+            "file": "images/linear_day15.png"
+        },
+        {
+            "defName": "IMAGE_DAY_14",
+            "type": "png",
+            "file": "images/linear_day14.png"
+        },
+        {
+            "defName": "IMAGE_DAY_13",
+            "type": "png",
+            "file": "images/linear_day13.png"
+        },
+        {
+            "defName": "IMAGE_DAY_12",
+            "type": "png",
+            "file": "images/linear_day12.png"
+        },
+        {
+            "defName": "IMAGE_DAY_11",
+            "type": "png",
+            "file": "images/linear_day11.png"
+        },
+        {
+            "defName": "IMAGE_DAY_10",
+            "type": "png",
+            "file": "images/linear_day10.png"
+        },
+        {
+            "defName": "IMAGE_DAY_9",
+            "type": "png",
+            "file": "images/linear_day9.png"
+        },
+        {
+            "defName": "IMAGE_DAY_8",
+            "type": "png",
+            "file": "images/linear_day8.png"
+        },
+        {
+            "defName": "IMAGE_DAY_7",
+            "type": "png",
+            "file": "images/linear_day7.png"
+        },
+        {
+            "defName": "IMAGE_DAY_6",
+            "type": "png",
+            "file": "images/linear_day6.png"
+        },
+        {
+            "defName": "IMAGE_DAY_5",
+            "type": "png",
+            "file": "images/linear_day5.png"
+        },
+        {
+            "defName": "IMAGE_DAY_4",
+            "type": "png",
+            "file": "images/linear_day4.png"
+        },
+        {
+            "defName": "IMAGE_DAY_3",
+            "type": "png",
+            "file": "images/linear_day3.png"
+        },
+        {
+            "defName": "IMAGE_DAY_2",
+            "type": "png",
+            "file": "images/linear_day2.png"
+        },
+        {
+            "defName": "IMAGE_DAY_1",
+            "type": "png",
+            "file": "images/linear_day1.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/icon.png"
+        },
+        {
+            "defName": "IMAGE_SLIDER",
+            "type": "png",
+            "file": "images/slider_test.png"
+        },
+        {
+            "defName": "IMAGE_ARM",
+            "type": "png",
+            "file": "images/linear_arm.png"
+        },
+        {
+            "defName": "IMAGE_SIDEWALL",
+            "type": "png",
+            "file": "images/linear_sideWall.png"
+        },
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/linear_background.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
