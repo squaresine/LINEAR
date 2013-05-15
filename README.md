@@ -1,4 +1,4 @@
 LINEAR
 ======
 
-Pebble Watchfaces based on "Slide Ruler" concept
+Pebble Watchface based on "Slide Ruler" concept. 
